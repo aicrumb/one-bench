@@ -1,4 +1,4 @@
-How to run One-Bench, the benchmark to end all benchmarks.
+How to run One-Bench.
 
 ```python
 import transformers
